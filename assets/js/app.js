@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	$(".views").hide(); 
 	setTimeout(function() {
-        $(".initial").fadeOut(1000, "swing" ,function(){
+        $(".initial").fadeOut(2000, "swing" ,function(){
         	$(".secondView").show()});
-    },500);
+    },2000);
 
 //captando el valor para el filtro 
 
