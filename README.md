@@ -4,4 +4,6 @@ la idea del sitio es poder encontrar lugares para comer filtrando por el tipo de
 
 ![FoodMap](https://user-images.githubusercontent.com/32285659/37908081-5ba036b2-30dd-11e8-9da6-fa01ccbc011f.png)
 
-Desarrollado para Laboratoria
+## Desarrollado para 
+
+[Laboratoria](http://laboratoria.la)
